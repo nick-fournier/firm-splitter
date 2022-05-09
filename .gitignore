@@ -1,3 +1,10 @@
+*.idea
+
+# sensitive csv/excel files
+*.xlsx
+*.xls
+*.csv
+
 # History files
 .Rhistory
 .Rapp.history

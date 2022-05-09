@@ -1,0 +1,5 @@
+input_file: All Firm Rosters 05.09.2022.xlsx
+input_sheet: Sheet1
+output_folder: output
+split_column: Firm Sort Name
+separate_files: True
